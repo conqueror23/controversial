@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+console.log.joblevel	object.js	/^joblevel:'senior',$/;"	p
+console.log.name	object.js	/^name :' The Coder',$/;"	p
+const	functions.js	/^const origin = function laidDown(text){$/;"	f
+extract	functions.js	/^const fancy=function extract({pa1 ='jakes',pa2='shake'}){$/;"	f
+laidDown	functions.js	/^const origin = function laidDown(text){$/;"	f
+object1.job	object.js	/^job:'soilder',$/;"	p
+object1.name	object.js	/^name:'jack',$/;"	p
+rordinary	functions.js	/^function rordinary (params){$/;"	f
+showLog	functions.js	/^function showLog(){$/;"	f
